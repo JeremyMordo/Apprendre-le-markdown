@@ -13,6 +13,7 @@ Bonjour, je m'appelle **Jérémy Mordo**, j'ai _32 ans_, je suis actuellement en
 ## Formation
 
 _2010_ :  **ISO** sur 2 ans (formation Opticien Lunetier).
+
 _2020_ : **Wild Code School** sur 5 mois. (formation Développeur Web).
 
 ## Expérience professionnelle
